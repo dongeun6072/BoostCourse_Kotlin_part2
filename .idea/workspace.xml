@@ -29,7 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Baekjoon" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -39,7 +39,7 @@
       <recent name="C:\Users\dongeun\IdeaProjects\kotlin_boostcourse_part2\src\chap01\section1" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.InterfacePetKt">
+  <component name="RunManager" selected="Kotlin.NestedClassTestKt">
     <configuration name="AbstractVehicleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="kotlin_boostcourse_part2" />
       <option name="VM_PARAMETERS" />
@@ -66,19 +66,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DelegatedPropertyVetoableKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="kotlin_boostcourse_part2" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="chap02.section2.DelegatedPropertyVetoableKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="InterfacePetKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="kotlin_boostcourse_part2" />
       <option name="VM_PARAMETERS" />
@@ -87,6 +74,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="chap03.section1.InterfacePetKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NestedClassTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="kotlin_boostcourse_part2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="chap03.section2.NestedClassTestKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.NestedClassTestKt" />
         <item itemvalue="Kotlin.InterfacePetKt" />
         <item itemvalue="Kotlin.AbstractVehicleKt" />
         <item itemvalue="Kotlin.ObjectExpressionSuperManKt" />
         <item itemvalue="Kotlin.DelegatedClassKt" />
-        <item itemvalue="Kotlin.DelegatedPropertyVetoableKt" />
       </list>
     </recent_temporary>
   </component>
@@ -141,21 +141,25 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="298" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641908255560" />
-    <state width="1877" height="273" key="GridCell.Tab.0.bottom" timestamp="1641908260905">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="914" height="260" key="GridCell.Tab.0.bottom" timestamp="1642342340646">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="914" height="260" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1642342340646" />
     <state width="1877" height="273" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641908260905" />
-    <state width="1877" height="273" key="GridCell.Tab.0.center" timestamp="1641908260904">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="914" height="260" key="GridCell.Tab.0.center" timestamp="1642342340646">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="914" height="260" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1642342340646" />
     <state width="1877" height="273" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641908260904" />
-    <state width="1877" height="273" key="GridCell.Tab.0.left" timestamp="1641908260904">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="914" height="260" key="GridCell.Tab.0.left" timestamp="1642342340646">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="914" height="260" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1642342340646" />
     <state width="1877" height="273" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641908260904" />
-    <state width="1877" height="273" key="GridCell.Tab.0.right" timestamp="1641908260904">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="914" height="260" key="GridCell.Tab.0.right" timestamp="1642342340646">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="914" height="260" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1642342340646" />
     <state width="1877" height="273" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641908260904" />
     <state width="1877" height="363" key="GridCell.Tab.1.bottom" timestamp="1641678886510">
       <screen x="0" y="0" width="1920" height="1080" />
